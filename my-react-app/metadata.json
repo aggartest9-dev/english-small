@@ -1,0 +1,12 @@
+{
+  "name": "FluentFlow",
+  "description": "Mobile-first immersive English learning app with video-synced interactive questions and AI-driven practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Interactive Video Learning",
+    "Voice Practice & Recording",
+    "AI Progress Tracking"
+  ]
+}

@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, sans-serif;
+  background: #050505;
+  color: #e2e8f0;
+  overflow: hidden;
+}
+
+.sophisticated-bg {
+  background:
+    radial-gradient(circle at 10% 10%, rgba(14, 165, 233, 0.08), transparent 40%),
+    radial-gradient(circle at 90% 90%, rgba(99, 102, 241, 0.08), transparent 40%),
+    #050505;
+}
+
+.aspect-video {
+  aspect-ratio: 16 / 9;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}

@@ -1,0 +1,10 @@
+
+.env
+venos/
+db.sqlite3
+__pycache__/
+*.py[cod]
+Thumbs.db
+desktop.ini
+media/
+static/
